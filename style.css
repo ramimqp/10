@@ -11,3 +11,9 @@
     background-position: center;
     background-size: cover;
 }
+header{
+    border: 2px solid red;
+    width: 76%;
+    margin: auto;
+    padding: 25px;
+}
